@@ -22,6 +22,10 @@ List of features ready and TODOs for future development
   To-do list:
 * Notification area for updates to User
 * Personal messaging between users
+## Contributors
+* Rafael Malespin
+* Suliman Sam
+* Sam Jenkins
 ## Getting Started
 Step 1:
 * Create an RDS instance and S3 Bucket with AWS.
@@ -52,8 +56,3 @@ Step 4:
 * Run the following commands in a new terminal window while in the project directory:
 "npm install"
 "ng serve -o"
-  
-##Contributors
-* Rafael Malespin
-* Suliman Sam
-* Sam Jenkins
