@@ -1,6 +1,5 @@
 # Project 2: Link Social Network
 
-
 ## Project Description
 
 Link Social Network is old school "Facebook" type of application with basic social media functions. A platform where users can potentially connect with each other online when they are not able to in person. Link has nice features like creating posts with images and youtube links. Also, there is a live chatroom to communicate with other online users!
@@ -53,6 +52,7 @@ Step 4:
 * Run the following commands in a new terminal window while in the project directory:
 "npm install"
 "ng serve -o"
+  
 ##Contributors
 * Rafael Malespin
 * Suliman Sam
